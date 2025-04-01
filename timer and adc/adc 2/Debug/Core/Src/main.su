@@ -1,0 +1,8 @@
+../Core/Src/main.c:14:6:delay	24	static
+../Core/Src/main.c:19:6:ADC1_Init	4	static
+../Core/Src/main.c:30:10:ADC1_Read	4	static
+../Core/Src/main.c:38:7:Get_Temperature	24	static
+../Core/Src/main.c:49:6:UART2_Init	4	static
+../Core/Src/main.c:64:6:UART2_SendChar	16	static
+../Core/Src/main.c:70:6:UART2_SendString	16	static
+../Core/Src/main.c:76:6:main	88	static
